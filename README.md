@@ -1,6 +1,23 @@
 # **ESP_8_BIT:** Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia
 ## Supports NTSC/PAL color composite video output, Bluetooth Classic or IR keyboards and joysticks; just the thing when we could all use a little distraction. This version also adds support for classic NES or SNES (one or two) controllers hardwired to the ESP32. Use SELECT + LEFT to access file menu and SELECT + START -> reset. There is also SD card support with FAT 8.3 filenames.
 
+# Which board manager version did I use?
+v1.0.4
+
+# Schematic
+
+You can find the schematics that I have created over here!
+![Input Devices](img/schematic.png)
+
+# Gerber files
+
+The files can be found under img folder. 
+
+Happy hacking! 
+
+//N92
+
+
 ![ESP_8_BIT](img/esp8bit.jpg)
 
 **ESP_8_BIT** is designed to run on the ESP32 within the Arduino IDE framework. See it in action on [Youtube](https://www.youtube.com/watch?v=qFRkfeuTUrU). Schematic is pretty simple:
@@ -267,16 +284,3 @@ Enjoy,
 
 rossum
 
-
-# Schematic
-
-You can find the schematics that I have created over here!
-![Input Devices](img/schematic.png)
-
-# Gerber files
-
-The files can be found under img folder. 
-
-Happy hacking! 
-
-//N92
