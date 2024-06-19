@@ -184,7 +184,7 @@ int get_hid_snes(uint8_t* dst)
 	_snes.set(0,buttonsA,0); // no repeat period
 
 	//Setup Controller B
-	//_snes.set(1,buttonsB,0); // no repeat period
+	_snes.set(1,buttonsB,0); // no repeat period
   
   return _snes.get_hid(dst);		
 }
