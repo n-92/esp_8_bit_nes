@@ -266,3 +266,17 @@ Play through the included demos. Load up your own. Write some Atari Basic master
 Enjoy,
 
 rossum
+
+
+# Schematic
+
+You can find the schematics that I have created over here!
+![Input Devices](img/schematic.png)
+
+# Gerber files
+
+The files can be found under img folder. 
+
+Happy hacking! 
+
+//N92
